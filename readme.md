@@ -1,1 +1,1 @@
-repo for ekobits tasksatu
+repo for ekobits tasks
